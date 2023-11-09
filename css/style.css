@@ -1,0 +1,56 @@
+
+body{
+    background-color: #EAF6F6;
+}
+hr{
+    background-color: rgba(255, 255, 255, 0);
+    border-style  : dotted none none;
+    height: 0px;
+    border-width: 5px;
+    width: 5%;
+    color:rgb(72, 62, 62);
+    size: 200px;
+}
+h1{
+    font-style: oblique;
+    color: #66BFBF;
+
+}
+h3{
+    color: #cb0e0e;
+
+}
+h2{
+    color: #0e73cb;
+
+
+}
+
+.fun{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.football{
+
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #cb0e0e;
+}
+.football:hover{
+    background-color: #EAF6F6;
+}
+/*
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+    width: 30%;
+    border-radius: 10px;
+}
+*/
+
+
